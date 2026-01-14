@@ -2,7 +2,7 @@
 
 La mayoría de los sistemas de trading algorítmico fracasan no por falta de indicadores, sino por el "Backtest Overfitting". Este proyecto aborda el desafío de la minería de estrategias en mercados financieros (Forex) desde una perspectiva rigurosa, diseñada para diferenciar la señal estadística del ruido aleatorio.
 
-## El core de la "Solución":
+## El núcleo:
 
 Para mitigar el sesgo de selección y el p-hacking en la búsqueda de estrategias, el pipeline se apoya en tres pilares de computación de alto rendimiento y estadística avanzada:
 
